@@ -4,7 +4,8 @@ Backend Developer specializing in building scalable REST APIs and backend servic
 
 📍 Egypt  
 💻 Tech: Node.js, Express.js, MongoDB, REST APIs  
-📫 Contact: mohamed29.elesawy@gmail.com
+📫 Contact:- [LinkedIn](https://linkedin.com/in/el3sawii) | [Email](mailto:mohamed29.elesawy@gmail.com)
+
 
 ---
 
